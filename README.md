@@ -1,9 +1,10 @@
 # Containerisation-and-Deployment-of-Wisecow-Application-on-Kubernetes-
 
 1. Dockerization:
+   
 Clone the repository git clone https://github.com/nyrahul/wisecow
 
-2. Build the Docker image:
+3. Build the Docker image:
 
 ````
 docker build -t wisecow-app .
